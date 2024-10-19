@@ -16,6 +16,9 @@ Olá, meu nome é Gustavo Henrique, tenho 19 anos e sou apaixonado por tecnologi
 
 ![GitHub followers](https://img.shields.io/github/followers/GustaHz1?style=social)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/gustavo-henrique-4a0516236/)
