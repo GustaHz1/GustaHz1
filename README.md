@@ -10,7 +10,7 @@ Olá, meu nome é Gustavo Henrique, tenho 19 anos e sou apaixonado por tecnologi
 
 ## Estatísticas
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=merko)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustaHz1&layout=compact&theme=radical&cache_seconds=86400)
 
