@@ -18,8 +18,8 @@ Olá, meu nome é Gustavo Henrique, tenho 19 anos e sou apaixonado por tecnologi
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/gustavo-henrique-4a0516236/)
-[E-mail](gustavohe1412@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/gustavo-henrique-4a0516236/)
+- [E-mail](gustavohe1412@gmail.com)
 
 
 
