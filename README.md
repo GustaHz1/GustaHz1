@@ -1,33 +1,29 @@
-## Sobre Min
-Olá, meu nome é Gustavo Henrique, tenho 19 anos e sou apaixonado por tecnologia. Programar e ouvir músicas são meus principais hobbies, e estou sempre em busca de novos conhecimentos e desafios. Possuo experiência com as linguagens Python e C#, e estou constantemente explorando novas tecnologias para aprimorar minhas habilidades e expandir meu repertório. Meu objetivo é evoluir como desenvolvedor e contribuir de forma significativa em projetos inovadores.
+## 👋 Hi, I'm Gustavo Henrique!
 
-## Projetos
+🎓 Computer Science Student at Uni  
+💻 Python & Front-End Developer  
+🎮 Gamer nas horas vagas, curioso 24h por dia  
+📍 From Americana - SP, Brazil
 
-- [Python-Projects](https://github.com/GustaHz1/Python-Projects)
-- [Faculty-Projects](https://github.com/GustaHz1/Faculty-Projects)
-- [Projetos-em-Andamento](https://github.com/GustaHz1/Projetos-em-Andamento)
-- [Projetos-CSharp](https://github.com/GustaHz1/Projetos-CSharp)
-
-## Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GustaHz1&show_icons=true&title_color=blue&icon_color=orange&text_color=gray&bg_color=000000)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GustaHz1&layout=compact&theme=merko&title_color=blue&text_color=gray&bg_color=000000)
-
-![GitHub followers](https://img.shields.io/github/followers/GustaHz1?style=social)
-
-## Tecnologias que uso
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+---
 
 
-## Contato
-
-- [LinkedIn](https://www.linkedin.com/in/gustavo-henrique-4a0516236/)
-- [E-mail](gustavohe1412@gmail.com)
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/> </p>
 
 
+### 🐍 A little more about me...
 
-
+```python
+gustavo = {
+    "languages": ["Python", "C#", "HTML", "CSS", "JavaScript"],
+    "frameworks": ["Flask", "Tkinter", "Pandas", "Matplotlib", "Selenium"],
+    "tools": ["VS Code", "Git", "GitHub", "SQL"],
+    "interests": [
+        "Web development",
+        "Automação com Python",
+        "LangChain e IA generativa",
+        "Dados e visualização"
+    ],
+    "currently_learning": ["JavaScript", "LangChain"],
+    "portfolio": "https://github.com/GustaHz1"
+}
