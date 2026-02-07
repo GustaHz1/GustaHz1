@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Gustavo Henrique!
 
-🎓 Computer Science Student at Uni  
+🎓 Computer Science Student at Universidade Faculdade de Americana(FAM)
 💻 Python & Front-End Developer  
-🎮 Gamer nas horas vagas, curioso 24h por dia  
+🎮 Gamer nas horas vagas
 📍 From Americana - SP, Brazil
 
 ---
