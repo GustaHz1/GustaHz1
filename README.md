@@ -16,7 +16,7 @@
 ```python
 gustavo = {
     "languages": ["Python", "C#", "HTML", "CSS", "JavaScript"],
-    "frameworks": ["Flask", "Tkinter", "Pandas", "Matplotlib", "Selenium"],
+    "frameworks": ["Flask", "Tkinter", "Pandas", "Matplotlib", "Selenium", "LangChain"],
     "tools": ["VS Code", "Git", "GitHub", "SQL"],
     "interests": [
         "Web development",
